@@ -1,4 +1,5 @@
 '''
+1111
 Cu site (only one) and O square lattice surrounding it. 
 Keep using CuO2 type lattice but now there is only (0,0) Cu-site
 #Cu 位点（只有一个）和围绕它的 O 方形晶格。
